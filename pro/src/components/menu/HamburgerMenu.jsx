@@ -138,13 +138,15 @@ export const Hamburgermenu = () => {
               <Nav.Link href="#about">About Us</Nav.Link>
 
               <InputGroup
+                className="d-none d-lg-flex
+                justify-content-center align-items-center"
                 style={{
                   width: "100%",
                   background: "#f6f7f8",
                   borderRadius: "10px",
                   padding: "8px 24px",
                   minWidth: 240,
-                  maxWidth: 200,
+                  maxWidth: 100,
                   marginRight: "4px",
                   boxShadow: "0 2px 8px #0001",
                 }}

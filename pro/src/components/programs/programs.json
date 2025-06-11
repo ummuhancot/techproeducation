@@ -1,0 +1,170 @@
+[
+  {
+    "id": "1",
+    "title": "Full Stack Java Developer",
+    "img": "java.png",
+    "button": "Sofrtware Development"
+  },
+  {
+    "id": "2",
+    "title": "Full Stack Python Developer",
+    "img": "python.png",
+    "button": "Sofrtware Development"
+  },
+  {
+    "id": "3",
+    "title": "Full Stack Mobile Developer",
+    "img": "mobile.png",
+    "button": "Sofrtware Development"
+  },
+  {
+    "id": "4",
+    "title": "Full Stack Automation Engineer",
+    "img": "automationEngineer.png",
+    "button": "Automation Engineer"
+  },
+  {
+    "id": "5",
+    "title": "Salesforce Admin & Developer",
+    "img": "salesforceAdmin.png",
+    "button": "salesforce"
+  },
+  {
+    "id": "6",
+    "title": "Cyber Security Analyst",
+    "img": "cyberSecurity.png",
+    "button": "Cyber Security"
+  },
+  {
+    "id": "7",
+    "title": "Mobile Developer",
+    "img": "mobile.png",
+    "button": "Sofrtware Development"
+  },
+  {
+    "id": "8",
+    "title": "Java Backend Developer",
+    "img": "backendDev.png",
+    "button": "Sofrtware Development"
+  },
+  {
+    "id": "9",
+    "title": "React JS Frontend Developer",
+    "img": "reactJsFrontend.png",
+    "button": "Sofrtware Development"
+  },
+  {
+    "id": "10",
+    "title": "Data Science",
+    "img": "dataScience.png",
+    "button": "Data Science"
+  },
+  {
+    "id": "11",
+    "title": "AWS & DevOps Engineer",
+    "img": "awsDevOpsEngineer.png",
+    "button": "Cloud DevOps"
+  },
+  {
+    "id": "12",
+    "title": "Full Stack Cypress Automation Tester",
+    "img": "cypressAutomationTester.png",
+    "button": "Cypress"
+  },
+  {
+    "id": "13",
+    "title": "Free Java",
+    "img": "freeJava.png",
+    "button": "Free Programs"
+  },
+  {
+    "id": "14",
+    "title": "Free Python",
+    "img": "freePython.png",
+    "button": "Free Programs"
+  },
+  {
+    "id": "15",
+    "title": "Free Cyber Security Analyst",
+    "img": "freeCyberSecurityAnalyst.png",
+    "button": "Free Programs"
+  },
+  {
+    "id": "16",
+    "title": "Free Salesforce Admin & Developer",
+    "img": "freeSalesforceAdmin&Dev.png",
+    "button": "Free Programs"
+  },
+  {
+    "id": "17",
+    "title": "Service Cloud Internship",
+    "img": "serviceCloudInternship.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "18",
+    "title": "Sales Cloud Internship",
+    "img": "salesCloudInternship.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "19",
+    "title": "Tableau",
+    "img": "tableau.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "20",
+    "title": "CPQ",
+    "img": "cpq.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "21",
+    "title": "Mobile Testing with Appium",
+    "img": "java.png",
+    "button": "Sofrtware Development"
+  },
+  {
+    "id": "22",
+    "title": "Full Stack Java Developer",
+    "img": "appium.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "23",
+    "title": "Performance Testing with JMeter",
+    "img": "jmeter.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "24",
+    "title": "Salesforce Automation Testing",
+    "img": "salesforceAutomationTesting.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "25",
+    "title": "Mulesorft",
+    "img": "muleSoft.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "26",
+    "title": "Cloud Testing",
+    "img": "cloudTesting.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "27",
+    "title": "Playwright Automation Testing",
+    "img": "playwright.png",
+    "button": "Upskills"
+  },
+  {
+    "id": "28",
+    "title": "Manuel Testing",
+    "img": "manualTesting.png",
+    "button": "Upskills"
+  }
+]

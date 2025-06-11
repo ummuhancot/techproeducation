@@ -1,0 +1,13 @@
+.program-badge {
+    font-size: 1rem;
+    padding: 0.5em 1.2em;
+    transition: background 0.2s, color 0.2s;
+    cursor: pointer;
+  }
+  
+  .program-badge:hover,
+  .program-badge:active {
+    background-color: orange !important;
+    color: #fff !important;
+    border: none;
+  }
